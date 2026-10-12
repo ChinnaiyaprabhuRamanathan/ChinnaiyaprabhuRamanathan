@@ -25,7 +25,7 @@ DevOps Engineer with 2+ years of experience automating infrastructure, managing 
 - Intern: Feb 2024 to Jun 2024
 
 ## 🌱 Passion project
-I build **[Kaasolai.in](https://kaasolai.in/)** on the side ([source on GitHub](https://github.com/ChinnaiyaprabhuRamanathan/kaasolai-public)), and you can follow it on Instagram at [@kaasolai](https://www.instagram.com/kaasolai/).
+I build **[Kaasolai.in](https://kaasolai.in/)** on the side, and you can follow it on Instagram at [@kaasolai](https://www.instagram.com/kaasolai/).
 
 ## 🤝 Let's connect
 Passionate about cloud-native, scalable infrastructure? We could make a good pair 😉
