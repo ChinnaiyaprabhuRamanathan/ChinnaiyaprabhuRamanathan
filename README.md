@@ -4,12 +4,12 @@
 
 # Chinnaiya here !
 
-DevOps Engineer with Real experience in automating infrastructure, managing containerized applications, and optimizing CI/CD pipelines. Skilled in Kubernetes, Docker, AWS, Terraform, Jenkins, Git, Helm, and ArgoCD, I build scalable, resilient systems that accelerate delivery.
+DevOps Engineer with hands-on experience in automating infrastructure, managing containerized applications, and optimizing CI/CD pipelines.
 
 ## Tech Stack
 
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
@@ -19,7 +19,7 @@ DevOps Engineer with Real experience in automating infrastructure, managing cont
 
 ## Beyond Tech
 
-Outside of tech, I'm curious about Finance, Art and Philosophy, which keeps me creative and analytical, with a focus on thought leadership :)
+Outside of tech, I'm curious about Finance, Art and Philosophy, which keeps me creative and analytical
 
 As a passion project, I build **Kaasolai**.
 
@@ -32,11 +32,13 @@ As a passion project, I build **Kaasolai**.
 
 | Role | Period | Duration |
 |------|--------|----------|
-| DevOps Engineer | Apr 2026 to present | 7 mos |
-| Associate DevOps Engineer | Jun 2024 to Mar 2026 | 1 yr 10 mos |
 | Intern | Feb 2024 to Jun 2024 | 5 mos |
+| Associate DevOps Engineer | Jun 2024 to Mar 2026 | 1 yr 10 mos |
+| DevOps Engineer | Apr 2026 to present | Current |
 
-**Work experience:** 2 yrs 9 mos
+
+
+**Work experience:** 2+ yrs 
 
 ## Connect
 
