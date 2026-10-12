@@ -26,15 +26,6 @@ DevOps Engineer with hands-on experience in automating infrastructure, managing 
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 
-## Beyond Tech
-
-Outside of tech, I'm curious about Finance, Art and Philosophy, which keeps me creative and analytical
-
-As a passion project, I build **Kaasolai**.
-
-[![Kaasolai Website](https://img.shields.io/badge/kaasolai.in-1E1E1E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaasolai.in/)
-[![Kaasolai Instagram](https://img.shields.io/badge/@kaasolai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaasolai/)
-
 ## Career
 
 ### TransUnion
@@ -46,6 +37,15 @@ As a passion project, I build **Kaasolai**.
 | DevOps Engineer | Apr 2026 to present | Current |
 
 **Work experience:** 2+ yrs
+
+## Beyond Tech
+
+Outside of tech, I'm curious about Finance, Art and Philosophy, which keeps me creative and analytical
+
+As a passion project, I build **Kaasolai**.
+
+[![Kaasolai Website](https://img.shields.io/badge/kaasolai.in-1E1E1E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaasolai.in/)
+[![Kaasolai Instagram](https://img.shields.io/badge/@kaasolai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaasolai/)
 
 ## Connect
 
