@@ -4,7 +4,7 @@
 
 # Chinnaiya here !
 
-DevOps Engineer with 2+ years of experience in automating infrastructure, managing containerized applications, and optimizing CI/CD pipelines. Skilled in Kubernetes, Docker, AWS, Terraform, Jenkins, Git, Helm, and ArgoCD, I build scalable, resilient systems that accelerate delivery.
+DevOps Engineer with Real experience in automating infrastructure, managing containerized applications, and optimizing CI/CD pipelines. Skilled in Kubernetes, Docker, AWS, Terraform, Jenkins, Git, Helm, and ArgoCD, I build scalable, resilient systems that accelerate delivery.
 
 ## Tech Stack
 
